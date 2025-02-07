@@ -36,6 +36,8 @@
 
 ###
 
+<br clear="both">
+
 <div align="left">
   <a href="mohamedboufous119@gmail.com" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="58" alt="gmail logo"  />
