@@ -4,7 +4,7 @@
 
 <br clear="both">
 
-<img align="right" height="194" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlscDkyOTE1MmJqaHFlNWJ0YnZuanJnNnEybGdodW9ka3FqZGpqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif"  />
+<img align="right" height="206" src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmlscDkyOTE1MmJqaHFlNWJ0YnZuanJnNnEybGdodW9ka3FqZGpqZyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/KGd6ns7MR1gPCRT52z/giphy.gif"  />
 
 ###
 
@@ -40,10 +40,10 @@
 
 <div align="center">
   <a href="mohamedboufous119@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="58" alt="gmail logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="154" height="62" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/mohamed-boufous-529aa026a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="58" alt="linkedin logo"  />
+    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="154" height="62" alt="linkedin logo"  />
   </a>
 </div>
 
