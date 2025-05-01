@@ -1,4 +1,11 @@
-<h1 align="center">Hi 👋! My name is Mohamed Boufous  and I'm a student in AI and big data engineering, from Morocco</h1>
+<h1 align="center">Hi 👋! My name is Mohamed Boufous</h1>
+
+<p align="center">
+  I'm a student in AI and Big Data Engineering from Morocco.<br>
+  Visit my portfolio 👉 <a href="https://mohamedboufous.vercel.app/" target="_blank">mohamedboufous.vercel.app</a>
+</p>
+
+
 
 ###
 
