@@ -50,9 +50,10 @@
 <br>
 
 <div align="center">
-  <a href="mohamedboufous119@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="96" height="44" alt="gmail logo"  />
-  </a>
+  <a href="mailto:mohamedboufous119@gmail.com" target="_blank">
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="96" height="44" alt="gmail logo" />
+</a>
+
   <a href="https://www.linkedin.com/in/mohamed-boufous-529aa026a/" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="96" height="44" alt="linkedin logo"  />
   </a>
