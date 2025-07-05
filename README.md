@@ -112,14 +112,11 @@
   <br clear="both" />
   <br />
   <br />
-<div align="center">
-  <a href="mailto:mohamedboufous119@gmail.com" target="_blank">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="96" height="44" alt="gmail logo" />
-</a>
+<div align="center" style="display: flex; justify-content: center; gap: 40px; flex-wrap: wrap;">
 
-  <a href="https://www.linkedin.com/in/mohamed-boufous-529aa026a/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="96" height="44" alt="linkedin logo"  />
-  </a>
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white&link=mailto:mohamedboufous119@gmail.com)](mailto:mohamedboufous119@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/mohamed-boufous-529aa026a/)](https://www.linkedin.com/in/mohamed-boufous-529aa026a/)
+
 </div>
   <h3></h3>
 
