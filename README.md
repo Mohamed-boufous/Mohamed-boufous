@@ -24,24 +24,24 @@
 <table border="0" width="100%">
   <tr>
     <td width="60%" valign="middle">
-      <h3>🧠 About Me</h3>
+      <h3>⊙ About Me</h3>
       <ul>
-        <li>🔭 I’m currently working on <b>Machine Learning Models & AI Research</b>.</li>
-        <li>📊 I’m focusing on <b>Deep Learning and Big Data Analytics</b>.</li>
-        <li>💻 My Stack: <b>Python (AI), React, Tailwind CSS</b>.</li>
-        <li>🚀 Goal: Building intelligent systems to solve complex data problems.</li>
+        <li>Σ Currently working on <b>Machine Learning models</b> with a strong interest in applied AI.</li>
+        <li>▣ Focus areas: <b>Deep Learning, data-driven decision systems, and analytics</b>.</li>
+        <li>➜ Objective:  Building intelligent systems to solve complex data problems</b>.</li>
       </ul>
     </td>
     <td width="40%" valign="middle" align="center">
       <img
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnc0cm1sNjJhMTY3emcxdjJrYmpla2RmamNmbDNqbnczcTNnZ3psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/alOB7OP5kiywfGjSJK/giphy.gif"
-        alt="Thinking Math Meme"
+        alt="Problem Solving"
         width="100%"
-        style="border-radius: 10px;"
+        style="border-radius: 12px;"
       />
     </td>
   </tr>
 </table>
+
 
 <br />
 
