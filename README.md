@@ -6,8 +6,6 @@
   </a>
 
   <br />
-
-
   <br />
   <br />
 
@@ -21,27 +19,34 @@
 
 <br />
 
-<table border="0" width="100%">
+<table border="0" width="100%" cellspacing="0" cellpadding="0">
   <tr>
-    <td width="60%" valign="middle">
-      <h3>⊙ About Me</h3>
-      <ul>
-        <li>Σ Currently working on <b>Machine Learning models</b> with a strong interest in applied AI.</li>
-        <li>▣ Focus areas: <b>Deep Learning, data-driven decision systems, and analytics</b>.</li>
-        <li>➜ Objective:  Building intelligent systems to solve complex data problems</b>.</li>
-      </ul>
+    <td width="55%" valign="middle">
+      <h2>⚡ About Me</h2>
+      <br/>
+      <p>
+        🎓 <b>Current Status:</b> <br/>
+        Engineering Student at the <b>National School of Applied Sciences (ENSA), Agadir</b> specializing in <b>Data Science, Big Data, and AI</b>.
+      </p>
+      <p>
+        💻 <b>Interests:</b> <br/>
+        Passionate about new technologies in general, with a specific focus on <b>Data Science and Artificial Intelligence</b>.
+      </p>
+      <p>
+        🚀 <b>Objective:</b> <br/>
+        To master the field of AI and apply this knowledge to <b>solve real-world problems</b>.
+      </p>
     </td>
-    <td width="40%" valign="middle" align="center">
+    <td width="45%" valign="middle" align="center">
       <img
         src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnc0cm1sNjJhMTY3emcxdjJrYmpla2RmamNmbDNqbnczcTNnZ3psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/alOB7OP5kiywfGjSJK/giphy.gif"
         alt="Problem Solving"
         width="100%"
-        style="border-radius: 12px;"
+        style="border-radius: 10px;"
       />
     </td>
   </tr>
 </table>
-
 
 <br />
 
@@ -89,14 +94,21 @@
 <br /><br />
 
 <div align="center">
-  <div style="display: flex; justify-content: center; gap: 20px;">
+  <div style="display: flex; justify-content: center; gap: 15px; align-items: center;">
     <a href="mailto:mohamedboufous119@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
     <a href="https://www.linkedin.com/in/mohamed-boufous-529aa026a/">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
+    <a href="https://mohamedboufous.vercel.app/" target="_blank">
+      <img src="https://img.shields.io/badge/Portfolio-8A2BE2?style=for-the-badge&logo=google-earth&logoColor=white" alt="Portfolio Website" />
+    </a>
   </div>
+
+  <br />
+
+  <img src="./assets/standard.gif" alt="My Animation" width="50%" style="border-radius: 10px; margin-top: 10px; margin-bottom: 20px;" />
 
   <br />
 
