@@ -39,8 +39,8 @@
     </td>
     <td width="45%" valign="middle" align="center">
       <img
-        src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExYnc0cm1sNjJhMTY3emcxdjJrYmpla2RmamNmbDNqbnczcTNnZ3psbSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/alOB7OP5kiywfGjSJK/giphy.gif"
-        alt="Problem Solving"
+        src="./assets/higuruma-hiromi-gif-higuruma-hiromi-oh-my-god.gif"
+        alt="Higorama"
         width="100%"
         style="border-radius: 10px;"
       />
