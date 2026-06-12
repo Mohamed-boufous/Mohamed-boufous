@@ -37,7 +37,7 @@
     </td>
     <td width="45%" valign="middle" align="center">
       <img
-        src="./assets/higuruma-hiromi-gif-higuruma-hiromi-oh-my-god.gif"
+        src="./assets/PeoPle.gif"
         alt="Higorama"
         width="100%"
         style="border-radius: 10px;"
